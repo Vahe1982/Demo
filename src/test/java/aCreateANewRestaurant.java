@@ -22,7 +22,7 @@ public class aCreateANewRestaurant {
 
             driver.findElement(By.xpath(".//*[@id='username']")).sendKeys("admin@localhost");
             driver.findElement(By.xpath(".//*[@id='password']")).sendKeys("admin");
-            driver.findElement(By.xpath("html/body/div[3]/div/div/div/form/button")).click();
+            driver.findElement(By.xpath("html/body/div[3]/div/div/div/form/butto")).click();
 
             WebElement element = driver.findElement(By.xpath(".//*[@id='main-header']/div/div/div[2]/div/ul/li[4]/a/span/span[2]"));
             JavascriptExecutor executor = (JavascriptExecutor) driver;

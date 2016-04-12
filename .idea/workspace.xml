@@ -27,8 +27,8 @@
       <file leaf-file-name="aCreateANewRestaurant.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/aCreateANewRestaurant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3321976">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.5349233">
+              <caret line="24" column="92" selection-start-line="24" selection-start-column="92" selection-end-line="24" selection-end-column="92" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,8 +70,8 @@
         <option value="$PROJECT_DIR$/src/test/java/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/Test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/aCreateANewRestaurant.java" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/aCreateANewRestaurant.java" />
       </list>
     </option>
   </component>
@@ -843,14 +843,11 @@
       <workItem from="1460035813822" duration="1132000" />
       <workItem from="1460094422212" duration="612000" />
       <workItem from="1460096331629" duration="3610000" />
-      <workItem from="1460440368927" duration="3230000" />
+      <workItem from="1460440368927" duration="3627000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Test_(1) - 2016.04.07 at 17h 36m 00s.xml">
-      <configuration name="Test (1)" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="Test_(1) - 2016.04.07 at 17h 36m 43s.xml">
       <configuration name="Test (1)" configurationId="TestNG" />
     </history-entry>
@@ -878,13 +875,16 @@
     <history-entry file="aCreateANewRestaurant - 2016.04.12 at 12h 14m 19s.xml">
       <configuration name="aCreateANewRestaurant" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="aCreateANewRestaurant - 2016.04.12 at 12h 19m 30s.xml">
+      <configuration name="aCreateANewRestaurant" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80084000" />
+    <option name="totallyTimeSpent" value="80481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1230,8 +1230,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/aCreateANewRestaurant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3321976">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.5349233">
+          <caret line="24" column="92" selection-start-line="24" selection-start-column="92" selection-end-line="24" selection-end-column="92" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
