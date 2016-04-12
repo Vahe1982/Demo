@@ -4,6 +4,7 @@
     <test name="Example" parallel="none" >
         <classes>
             <class name="Test" />
+            <class name="NewTest"/>
         </classes>
     </test>
 

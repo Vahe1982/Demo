@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Test" duration-ms="19568" started-at="2016-04-12T12:11:34Z" finished-at="2016-04-12T12:11:54Z">
+  <suite name="Command line suite" duration-ms="26053" started-at="2016-04-12T13:05:08Z" finished-at="2016-04-12T13:05:34Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="19568" started-at="2016-04-12T12:11:34Z" finished-at="2016-04-12T12:11:54Z">
+    <test name="Command line test" duration-ms="26053" started-at="2016-04-12T13:05:08Z" finished-at="2016-04-12T13:05:34Z">
       <class name="Test">
-        <test-method status="PASS" signature="main()[pri:0, instance:Test@7a5d012c]" name="main" duration-ms="19558" started-at="2016-04-12T16:11:34Z" finished-at="2016-04-12T16:11:54Z">
+        <test-method status="PASS" signature="main()[pri:0, instance:Test@dfd3711]" name="main" duration-ms="25609" started-at="2016-04-12T17:05:08Z" finished-at="2016-04-12T17:05:34Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- main -->
       </class> <!-- Test -->
     </test> <!-- Command line test -->
-  </suite> <!-- Test -->
+  </suite> <!-- Command line suite -->
 </testng-results>
