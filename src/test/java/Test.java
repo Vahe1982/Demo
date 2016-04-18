@@ -21,7 +21,7 @@ public class Test {
         driver.findElement(By.xpath(".//*/li[1]/div/div[1]/div[1]/a/div/span/img")).click();
         driver.findElement(By.xpath(".//*[@id='movie_player']/div[1]/video")).click();
         driver.findElement(By.xpath(".//*[@id='movie_player']/div[1]/video")).click();
-        System.out.println("TestWithMaven");
+        System.out.println("Test");
 
     }
 }
